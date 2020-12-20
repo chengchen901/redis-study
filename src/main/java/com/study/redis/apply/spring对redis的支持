@@ -1,0 +1,5 @@
+spring 对redis的支持
+https://docs.spring.io/spring-data/redis/docs/2.1.5.RELEASE/reference/html
+
+jedis 对redis5新特性支持有限
+
